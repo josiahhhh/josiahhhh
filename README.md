@@ -1,16 +1,44 @@
-### Hi there 👋
+# Josiah Rose
+<a href="https://www.github.com/2244josiah" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="25"></a>&nbsp;
+<a href="https://twitter.com/_josiahrose" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge" height="25"></a>&nbsp;
 
-<!--
-**2244josiah/2244josiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hello World
+Self taught programmer since the age of 8.
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=2244josiah&theme=default&color=blue&style=flat&label=Profile+Views)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+🔭&nbsp;I’m currently working on **Becoming more proficient on ethical hacking & machine learning.**
+<br/>🌱&nbsp;Learning about **Web development & AI**
+<br/>💡&nbsp;I'm interested about **Computer science, and engineering.**
+<br/>🤝&nbsp;I like to collaborate in **Open Source Projects**
+<br/>😄&nbsp;Pronouns **He/Him**
+<br/>📫&nbsp;Reach me [hey@josiahrose.me](mailto:hey@josiahrose.me)
+<br/>🖥&nbsp; See my portfolio at [josiahrose.me](www.josiahrose.me)
+
+## Tech Stack
+<img src="https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnu-bash" alt="bash Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Css3-05122A?style=flat&logo=css3" alt="css3 Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker" alt="docker Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma" alt="figma Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Flask-05122A?style=flat&logo=flask" alt="flask Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter" alt="flutter Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git" alt="git Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Html5-05122A?style=flat&logo=html5" alt="html5 Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Javascript-05122A?style=flat&logo=javascript" alt="javascript Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Jquery-05122A?style=flat&logo=jQuery" alt="jQuery Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Mysql-05122A?style=flat&logo=mysql" alt="mysql Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Nodejs-05122A?style=flat&logo=node.js" alt="nodejs Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Php-05122A?style=flat&logo=php" alt="php Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Postgresql-05122A?style=flat&logo=postgresql" alt="postgresql Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="python Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/React-05122A?style=flat&logo=react" alt="react Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Typescript-05122A?style=flat&logo=typescript" alt="typescript Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Vuejs-05122A?style=flat&logo=vuedotjs" alt="vuejs Badge" height="25">&nbsp;
+
+## GitHub Analytics
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=2244josiah&theme=default&show_icons=true&count_private=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2244josiah&theme=default&layout=compact&langs_count=5">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=2244josiah&theme=default">
+</div>
