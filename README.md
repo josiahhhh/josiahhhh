@@ -3,7 +3,7 @@
 <a href="https://twitter.com/_josiahrose" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge" height="25"></a>&nbsp;
 
 ## 👋 Hello World
-Self taught programmer since the age of 8.
+Self taught full-stack developer, coding since the age of 8.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=2244josiah&theme=default&color=blue&style=flat&label=Profile+Views)
 
