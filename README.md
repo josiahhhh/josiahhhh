@@ -3,12 +3,12 @@
 <a href="https://twitter.com/_josiahrose" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge" height="25"></a>&nbsp;
 
 ## 👋 Hello World
-Self taught full-stack developer, coding since the age of 8.
+Self taught full-stack developer.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=2244josiah&theme=default&color=blue&style=flat&label=Profile+Views)
 
 ## About me
-🔭&nbsp;I’m currently working on **Becoming more proficient on ethical hacking & machine learning.**
+🔭&nbsp;I’m currently working on **Project 2916.**
 <br/>🌱&nbsp;Learning about **Web development & AI**
 <br/>💡&nbsp;I'm interested about **Computer science, and engineering.**
 <br/>🤝&nbsp;I like to collaborate in **Open Source Projects**
